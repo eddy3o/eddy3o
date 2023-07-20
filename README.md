@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddy3o&show_icons=true&locale=en&layout=compact" alt="eddy3o" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddy3o&hide_progress=false&layout=compact" alt="eddy3o" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddy3o&show_icons=true&locale=en" alt="eddy3o" /></p>
 
