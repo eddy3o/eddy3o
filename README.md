@@ -8,3 +8,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddy3o&" alt="eddy3o" />
 
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000081.e0d6096cf8b54d07b78b4d73c861f5b0.1735)](https://github.com/rayriffy/apple-music-github-profile)
