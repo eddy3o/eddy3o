@@ -1,6 +1,6 @@
 # Hi 👋 I am Eddy! 
 
-I'm a student passionate about fullstack web development, exploring exciting projects and gaining hands-on experience in the field.
+I'm a student passionate about fullstack web development.
 
 <!-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/). -->
 ---
