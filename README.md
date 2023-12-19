@@ -1,6 +1,5 @@
 # Hi 👋 I am Eddy! 
 
-I'm a student passionate about fullstack web development.
 
 <!-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/). -->
 ---
