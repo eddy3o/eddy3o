@@ -41,7 +41,3 @@
 </p>
 
 
-<div align="center">
-  
-   [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000081.e0d6096cf8b54d07b78b4d73c861f5b0.1735)](https://github.com/rayriffy/apple-music-github-profile)
-</div>
