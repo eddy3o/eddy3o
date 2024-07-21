@@ -17,7 +17,7 @@
 
 <h5>some works:</h5>
 
-- <a href="https://github.com/eddy3o/rinderline">Rinderline</a>
-- <a href="https://github.com/minotaes/minotaes-webapp">Minota.es</a>
-- <a href="https://github.com/M0ORI/limdala">Límdala</a>
-- <a href="https://github.com/M0ORI/los_revolucionarios">Los Revolucionarios</a>
+- <a href="https://github.com/eddy3o/rinderline">rinderline</a>
+- <a href="https://github.com/minotaes/minotaes-webapp">minota.es</a>
+- <a href="https://github.com/M0ORI/limdala">límdala</a>
+- <a href="https://github.com/M0ORI/los_revolucionarios">los revolucionarios</a>
