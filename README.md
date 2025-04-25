@@ -2,7 +2,8 @@
 
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=eddy3o&show_icons=true&theme=dracula" width="400"> 
 
-<samp><em>software engineering student<br>
+<samp><em>
+    software engineer<br>
     focused on web development.
 </em></samp>
 
